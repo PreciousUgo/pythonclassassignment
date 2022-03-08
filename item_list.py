@@ -1,0 +1,10 @@
+milk = 400
+milo = 800
+cookies = 300
+cake = 1500
+goldern morn = 1000
+chocolate = 700
+cornflakes = 750
+sugar = 450
+peanut = 240
+sweet = 100
